@@ -1,0 +1,37 @@
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe.config
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Form1.resources
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Properties.Resources.resources
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\Desktop\Лаба 5 Color Models\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe.config
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csprojResolveAssemblyReference.cache
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Form1.resources
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Properties.Resources.resources
+C:\Users\Никита\OneDrive\Documents\Комп Графика\Компьютерная графика\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe.config
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Form1.resources
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Properties.Resources.resources
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.exe
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.pdb
+C:\Users\Никита\Desktop\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csprojResolveAssemblyReference.cache
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe.config
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.exe
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\bin\Debug\Lesson 5 Color Models.pdb
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csprojAssemblyReference.cache
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Form1.resources
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson_5_Color_Models.Properties.Resources.resources
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csproj.GenerateResource.cache
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.csproj.CoreCompileInputs.cache
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.exe
+D:\Загрузки\Laba_5\Лаба 5\Lesson 5 Color Models\obj\Debug\Lesson 5 Color Models.pdb
